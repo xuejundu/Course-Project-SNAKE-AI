@@ -78,7 +78,6 @@ Arguments can be passed in the previous command to try differents training param
   </tr>
 </table>
 
-You should be able to see the training and the models will be saved under models directory.
 
 ![](images/demo.gif)
 
